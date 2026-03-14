@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/00 Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/01 Presentation/">
+    <Project Path="src/BingoTool.Web/BingoTool.Web.csproj" />
+  </Folder>
+</Solution>
