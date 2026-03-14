@@ -3,7 +3,18 @@
     <File Path=".gitignore" />
     <File Path="README.md" />
   </Folder>
+  <Folder Name="/00 Tests/">
+    <Project Path="tests/BingoTool.Core.Tests/BingoTool.Core.Tests.csproj" />
+    <Project Path="tests/BingoTool.DAL.Tests/BingoTool.DAL.Tests.csproj" />
+    <Project Path="tests/BingoTool.Web.Tests/BingoTool.Web.Tests.csproj" />
+  </Folder>
   <Folder Name="/01 Presentation/">
     <Project Path="src/BingoTool.Web/BingoTool.Web.csproj" />
+  </Folder>
+  <Folder Name="/02 Core/">
+    <Project Path="src/BingoTool.Core/BingoTool.Core.csproj" />
+  </Folder>
+  <Folder Name="/03 Infrastructure/">
+    <Project Path="src/BingoTool.DAL/BingoTool.DAL.csproj" />
   </Folder>
 </Solution>
